@@ -12,5 +12,5 @@ This is a tool for encryption some data you need
 Speed ≈ 1800Mb/Hour ≈ 30Mb/Minute ≈ 0.5Mb/Second 
 #Changelog:
   Version1.0:
-    using PyCrypto
-    using PyQt v.4
+    using PyCrypto;
+    using PyQt v.4;
